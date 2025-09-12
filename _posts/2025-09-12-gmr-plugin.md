@@ -14,6 +14,9 @@ I'm excited to share my latest project: a VSCode extension specifically designed
 GMR (presumably a World of Warcraft addon framework) Lua API. This extension aims to streamline the development 
 process and make coding WoW addons more efficient and enjoyable.
 
+- [Marketplace](https://marketplace.visualstudio.com/items?itemName=AmsTaFFix.gmr-lua-api)
+- [Source Code](https://github.com/WoW-U/vscode-gmr-api)
+
 ## What is GMR?
 
 You know if you know :)
