@@ -1,6 +1,6 @@
 ---
 title: 'VSCode Extension for Tinkr Lua API'
-date: 2025-09-15
+date: 2025-09-24
 permalink: /posts/2025/09/vscode-tinkr-extension/
 tags:
   - wow
