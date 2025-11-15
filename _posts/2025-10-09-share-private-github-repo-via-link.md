@@ -1,7 +1,7 @@
 ---
 title: 'Share GitHub private repo via link'
 date: 2025-10-09
-permalink: /posts/2025/09/share-private-github-repo-via-link/
+permalink: /posts/2025/10/share-private-github-repo-via-link/
 tags:
   - github
 ---
