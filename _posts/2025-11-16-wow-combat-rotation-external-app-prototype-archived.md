@@ -3,7 +3,10 @@ title: 'External app for combat rotation for WoW pre-Midnight'
 date: 2025-11-16
 permalink: /posts/2025/11/wow-combat-rotation-external-app-prototype-archived/
 tags:
-  - fallout76
+  - wow
+  - combat rotation
+  - prototype
+  - pixel analysis
 ---
 
 Today I want to talk about [a little prototype](https://github.com/WoW-U/pixel-rotation) I made for WoW, which I have to archive. 
